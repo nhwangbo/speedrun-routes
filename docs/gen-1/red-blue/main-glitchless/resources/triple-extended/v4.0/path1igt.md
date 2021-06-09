@@ -1,8 +1,5 @@
-<details><summary>Path 1</summary>
-<p>
 
 ```
-
 [0] [0]: Nido Result: YoloballSuccess, Pidgey Result: YoloballSuccess, Forest Result: NoEncounter, NPC Log: r,R,D,d,d
 [0] [1]: Nido Result: YoloballSuccess, Pidgey Result: YoloballSuccess, Forest Result: NoEncounter, NPC Log: r,R,D,d,d
 [0] [2]: Nido Result: YoloballSuccess, Pidgey Result: YoloballSuccess, Forest Result: NoEncounter, NPC Log: r,R,D,d,d
@@ -3607,6 +3604,3 @@
 
 Nido Success: 3418/3600, Pidgey Success: 3179/3418, Forest Success: 3169/3179
 ```
-
-</p>
-</details>
